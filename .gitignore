@@ -41,3 +41,6 @@ env/
 # build files
 dist/
 build/
+
+# sqlite
+reactor.db
